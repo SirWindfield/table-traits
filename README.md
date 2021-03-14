@@ -1,3 +1,7 @@
+Open an issue if you want the crate name.
+
+---
+
 # table-traits
 
 [![Maintenance](https://img.shields.io/badge/maintenance-actively%20maintained-brightgreen.svg)](https://github.com/SirWindfield/table-traits)
